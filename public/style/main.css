@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 header img{
     width: 200px;
-    border: solid 0.2rem var(--secondary);
+    border: solid 0.5rem var(--secondary);
     border-radius: 50%;
 }
 
@@ -48,6 +48,10 @@ header img{
 
 .fab{    
     color: var(--secondary);
+}
+
+.bt .fab{
+    color: #fff;
 }
 
 main{
@@ -78,11 +82,16 @@ main a{
 }
 
 .bt{
+    transition: transform .2s;
     color: #fff;
     font-weight: 600;
     padding: 0.75rem 1rem;
     background-color: var(--primary);
     border-radius: 0.35rem;
+}
+
+.bt:hover{    
+  transform: scale(1.05);
 }
 
 bt{
