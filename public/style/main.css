@@ -6,10 +6,11 @@
 }
 
 :root{
-    --primary: #1e90ff;
-    --secondary: #54218A;
-    -text:#000;
-    -bg:#fff;
+    --primary: #5c0a0a;
+    --secondary: #111;
+    --tertiary: #666;
+    --text:#fff;
+    --bg:#000;
 }
 
 body{
@@ -17,6 +18,7 @@ body{
     min-height: 100vh;
     padding-bottom: 3rem;
     position: relative;
+    background-color: var(--bg);
 }
 
 header{
@@ -30,6 +32,7 @@ header{
 
 h1,h2,h3,h4,h5,h6,p{
     font-family: Arial, Helvetica, sans-serif;
+    color: var(--text);
 }
 
 header img{
@@ -47,11 +50,15 @@ header img{
 }
 
 .fab{    
-    color: var(--secondary);
+    color: var(--tertiary);
+}
+
+.fab:hover{
+    filter: brightness(150%);
 }
 
 .bt .fab{
-    color: #fff;
+    color: var(--text);
 }
 
 main{
@@ -83,7 +90,7 @@ main a{
 
 .bt{
     transition: transform .2s;
-    color: #fff;
+    color: var(--text);
     font-weight: 600;
     padding: 0.75rem 1rem;
     background-color: var(--primary);
