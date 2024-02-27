@@ -8,7 +8,4 @@ Sinta-se livre de clonar esse projeto e criar sua propria página agregadora de 
 Atualmente venho estudando react, em breve presendo usar o Next.JS para criar um serverless e qualquer um poder usar o projeto sem precisar de git clone.
  
 Quer me apoiar de alguma forma? então me acompanhe em minhas redes\
-[instagram - Pouco parado ultimamente](https://www.instagram.com/fcsneto/)\
-[Twitch - lives de SEG a SEX às 21h](https://www.twitch.tv/fcsneto)
-
-[Veja como está layout](http://fcsneto.tk/)
+[instagram - Pouco parado ultimamente](https://www.instagram.com/netocgi/)\
