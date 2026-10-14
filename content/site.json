@@ -1,0 +1,487 @@
+{
+  "site": {
+    "name": "Francisco Neto",
+    "title": "Francisco Neto",
+    "description": "O cara do TI e das artes gráficas",
+    "language": "pt-BR",
+    "baseUrl": "https://neto.bio",
+    "avatar": "/img/avatar.jpg",
+    "footer": "Criado com ❤️ por <a href=\"https://www.instagram.com/netocgi\" target=\"_blank\" rel=\"noopener\">@netocgi</a>"
+  },
+  "theme": {
+    "background": "#050505",
+    "surface": "#151515",
+    "primary": "#6f1010",
+    "text": "#ffffff",
+    "muted": "#9b9b9b",
+    "radius": "12"
+  },
+  "socials": [
+    {
+      "label": "YouTube",
+      "icon": "youtube",
+      "url": "https://youtube.com/@netocgi"
+    },
+    {
+      "label": "Twitch",
+      "icon": "twitch",
+      "url": "https://www.twitch.tv/fcsneto"
+    },
+    {
+      "label": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/netocgi/"
+    },
+    {
+      "label": "TikTok",
+      "icon": "tiktok",
+      "url": "https://www.tiktok.com/@netocgi"
+    }
+  ],
+  "home": {
+    "sections": [
+      {
+        "title": "Meus links s2",
+        "links": [
+          {
+            "label": "⋙ Produtos divulgados nos videos ⋘",
+            "url": "/produtos-intercambio/",
+            "style": "light",
+            "newTab": false
+          },
+          {
+            "label": "🙇 Me ajude a produzir + conteúdo 🙇",
+            "url": "/ajude/",
+            "style": "primary",
+            "newTab": false
+          },
+          {
+            "label": "Comunidade - Vida no Japão!",
+            "url": "https://chat.whatsapp.com/JDCaX3PStFEGSbxtrPMrlN",
+            "style": "primary",
+            "newTab": true
+          },
+          {
+            "label": "Envie dinheiro para o japão com a Wise!",
+            "url": "https://wise.com/invite/ih/franciscoc2274",
+            "style": "wise",
+            "newTab": true
+          }
+        ]
+      },
+      {
+        "title": "Confira essas oportunidades incríveis!",
+        "links": [
+          {
+            "label": "Aprenda programação na melhor plataforma da America Latina",
+            "url": "https://app.rocketseat.com.br/cart/rocketseat-one?referral=fcsneto&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one",
+            "style": "primary",
+            "newTab": true
+          },
+          {
+            "label": "Intercâmbio para o Japão",
+            "url": "/intercambio-japao/",
+            "style": "primary",
+            "newTab": false
+          },
+          {
+            "label": "DEV no Japão",
+            "url": "/dev-no-jp/",
+            "style": "primary",
+            "newTab": false
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "slug": "ajude",
+      "title": "Ajude o Neto",
+      "showProfile": true,
+      "introHtml": "",
+      "sections": [
+        {
+          "title": "🙇 Me ajude a produzir + conteúdo 🙇",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Links de indicação",
+              "url": "/ajude/indicacao/",
+              "style": "light",
+              "newTab": false
+            },
+            {
+              "label": "Live PIX",
+              "url": "https://livepix.gg/netocgi",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Lista de desejo Amazon",
+              "url": "https://www.amazon.jp/hz/wishlist/ls/12L8WQGZAQFVI?ref_=wl_share",
+              "style": "primary",
+              "newTab": true
+            }
+          ]
+        },
+        {
+          "title": "🙇 Siga e compartilhe com amigos 🙇",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "YouTube | @netocgi",
+              "url": "https://youtube.com/@netocgi?si=2lIZukahyY254M5g",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Instagram | @netocgi",
+              "url": "https://www.instagram.com/netocgi?igsh=djBiNXU1b21oZXE%3D&utm_source=qr",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "TikTok | @netocgi",
+              "url": "https://www.tiktok.com/@netocgi?is_from_webapp=1&sender_device=pc",
+              "style": "primary",
+              "newTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ajude/indicacao",
+      "title": "Links de indicação",
+      "showProfile": true,
+      "introHtml": "",
+      "sections": [
+        {
+          "title": "Comprar pelos meus links não te afeta em nada, mas me ajuda muito",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Nord VPN",
+              "url": "https://refer-nordvpn.com/erVViIKdPzb",
+              "style": "blue",
+              "newTab": true
+            },
+            {
+              "label": "Amazon",
+              "url": "https://amzn.to/3BpRXYw",
+              "style": "amazon",
+              "newTab": true
+            },
+            {
+              "label": "AliExpress",
+              "url": "https://s.click.aliexpress.com/e/_DlCtIBJ",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Veek",
+              "url": "https://idq.vc/X064VBVQ",
+              "style": "dark",
+              "newTab": true
+            },
+            {
+              "label": "IPTV",
+              "url": "https://abre.ai/mais-de-40mil-canais",
+              "style": "primary",
+              "newTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "produtos-intercambio",
+      "title": "Produtos para intercâmbio",
+      "showProfile": true,
+      "introHtml": "",
+      "sections": [
+        {
+          "title": "Item diário",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Adaptador de tomada",
+              "url": "https://amzn.to/3MM3vIi",
+              "style": "primary",
+              "newTab": true
+            }
+          ]
+        },
+        {
+          "title": "Item financeiro",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Envie dinheiro para o Japão com a Wise!",
+              "url": "https://wise.com/invite/dic/franciscoc2274",
+              "style": "wise",
+              "newTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "intercambio-japao",
+      "title": "Intercâmbio para o Japão",
+      "showProfile": true,
+      "introHtml": "",
+      "sections": [
+        {
+          "title": "Dicas e curiosidades",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Dicas para futuros intercambistas",
+              "url": "https://youtube.com/playlist?list=PL9lPiQNcgOxSlaqTiZCIs_x3raDJOOdEU&si=CPaaCen1HHLvtc5C",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Dicas para intercambistas",
+              "url": "https://youtube.com/playlist?list=PL9lPiQNcgOxTSHakDwB4ZOujViz3bdLm-&si=gFOtyc_mD5pR2ySI",
+              "style": "primary",
+              "newTab": true
+            }
+          ]
+        },
+        {
+          "title": "Oportunidades",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Bolsas de estudo | Mext",
+              "url": "https://www.br.emb-japan.go.jp/itpr_pt/bolsas_programas.html",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Bolsa de estudo | JPSS",
+              "url": "https://www.jpss.jp/en/",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Bolsa de estudo | JASSO",
+              "url": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/ukeire.html",
+              "style": "primary",
+              "newTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "dev-no-jp",
+      "title": "Trabalhar como Desenvolvedor no Japão",
+      "showProfile": false,
+      "introHtml": "<h2>Aprender ou Não Japonês</h2><ul><li><strong>Sem Japonês:</strong> Algumas vagas disponíveis, mas em menor quantidade, principalmente em startups ou grandes empresas internacionais.</li><li><strong>Com Japonês:</strong> Muitas mais oportunidades, mas será necessário lidar com equipes que, em geral, não trabalham com Agile e preferem Waterfall.</li></ul><h2>Metodologia de Trabalho</h2><ul><li><strong>Agile:</strong> Apenas em startups ou empresas internacionais.</li><li><strong>Waterfall:</strong> 99,9% das empresas japonesas. Desenvolvedores seguem as tarefas em ordem, esperando que tudo esteja concluído.</li></ul><h2>Estudo e Certificações</h2><p>Faculdade ou certificações geralmente não são importantes, a não ser que sejam grandes faculdades ou certificações. Ex.: Federal Brasileira ou certificação Java do próprio Java. Lembre-se, no Brasil, as federais são mais respeitadas. Não é obrigatório ter faculdade para conseguir visto, mas ajuda absurdamente, então tenha uma já ou faça lá. Já estando no Japão, pode ser um técnico feito no Japão ou uma faculdade feita lá; recomendo faculdade.</p><p>Dica: pode ser muito bom para quem é iniciante fazer um bootcamp de 6 meses no Japão!</p><h2>Portfólio</h2><p>Projetos funcionais são valorizados. Compre uma VPS, faça o deploy dos seus projetos ou deixe só o ambiente de desenvolvimento, mas tenha como fazer deploy fácil para mostrar. Faça projetos fullstack, do back ao front-end, completos. Isso pode influenciar muito positivamente suas entrevistas.</p><h2>Linguagens de Programação</h2><ul><li><strong>Freelancer:</strong> C#, Ruby, Python e Java.</li><li><strong>Front:</strong> JavaScript e frameworks como Vue, React e Angular, além de jQuery.</li><li><strong>Trabalho normal:</strong> Java, Ruby, Python, Go e C#.</li></ul>",
+      "sections": [
+        {
+          "title": "Links para procurar emprego",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "LinkedIn",
+              "url": "https://linkedin.com",
+              "style": "dark",
+              "newTab": true
+            },
+            {
+              "label": "Japan Dev",
+              "url": "https://japan-dev.com",
+              "style": "dark",
+              "newTab": true
+            },
+            {
+              "label": "TokyoDev",
+              "url": "https://www.tokyodev.com",
+              "style": "dark",
+              "newTab": true
+            },
+            {
+              "label": "Indeed",
+              "url": "https://jp.indeed.com",
+              "style": "dark",
+              "newTab": true
+            },
+            {
+              "label": "Doda",
+              "url": "https://doda.jp",
+              "style": "dark",
+              "newTab": true
+            },
+            {
+              "label": "Daijob",
+              "url": "https://www.daijob.com",
+              "style": "dark",
+              "newTab": true
+            },
+            {
+              "label": "GaijinPot",
+              "url": "https://jobs.gaijinpot.com/index/index/lang/en",
+              "style": "dark",
+              "newTab": true
+            }
+          ]
+        },
+        {
+          "title": "Agências de recrutamento",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Spring Executive",
+              "url": "https://springjapan.com/",
+              "style": "purple",
+              "newTab": true
+            },
+            {
+              "label": "G Talent",
+              "url": "https://www.gtalent.jp/en",
+              "style": "purple",
+              "newTab": true
+            },
+            {
+              "label": "Coto Work",
+              "url": "https://www.cotowork.com",
+              "style": "purple",
+              "newTab": true
+            }
+          ]
+        },
+        {
+          "title": "Vídeos referenciais sobre trabalhar no Japão",
+          "bodyHtml": "",
+          "links": [
+            {
+              "label": "Cresceu no Japão e trabalha numa empresa japonesa",
+              "url": "https://www.youtube.com/watch?v=FaIiJ-ppTTc",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Estudante bolsista que conseguiu trabalho",
+              "url": "https://www.youtube.com/watch?v=pWmG8tXYxdo",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Quanto é o salário na área de TI no Japão",
+              "url": "https://www.youtube.com/watch?v=ov1wkYPvIds",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Como é o trabalho de um desenvolvedor no Japão?",
+              "url": "https://www.youtube.com/watch?v=FkF4a3S7ngE",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Tem como morar no Japão sem falar japonês?",
+              "url": "https://www.youtube.com/watch?v=k-pLVBxTBsM",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Quanto ganha um desenvolvedor no Japão",
+              "url": "https://www.youtube.com/watch?v=JIIKhjEK9yk",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Playlist — Trabalhar no Japão",
+              "url": "https://youtube.com/playlist?list=PLyNb81yahsfC8-phCciuoUiRC2Kkk48-N&si=eYyPxlBfmpBfjMDs",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Tentando achar emprego no Japão",
+              "url": "https://www.youtube.com/watch?v=V4MJenOVu8w&t=480s",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Como arrumar emprego no Japão — Parte 1",
+              "url": "https://www.youtube.com/watch?v=qqkXFbptm48",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Como arrumar emprego no Japão — Parte 2",
+              "url": "https://www.youtube.com/watch?v=XYkSeKM5_6U",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Como é o mercado de TI no Japão?",
+              "url": "https://www.youtube.com/watch?v=QkLFU2RzzK8",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Japonês trabalha em Waterfall",
+              "url": "https://www.youtube.com/watch?v=zNbNxqw4Qkw",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Mercado de programação Japão 2024 — Parte 1",
+              "url": "https://www.youtube.com/watch?v=jI29h6V8vnk",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Mercado de programação Japão 2024 — Parte 2",
+              "url": "https://www.youtube.com/watch?v=enzwVvP_HBE",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Como arrumar emprego de programador sendo iniciante",
+              "url": "https://www.youtube.com/watch?v=0ZDMkDJEEJs",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Sem estudo em TI, conseguiu vaga como PO/PM",
+              "url": "https://www.youtube.com/watch?v=Yli6jVky5Xs",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Gringo desenvolvedor no Japão",
+              "url": "https://www.youtube.com/watch?v=Ot_2-Y6D5JI",
+              "style": "primary",
+              "newTab": true
+            },
+            {
+              "label": "Outro relato de desenvolvedor estrangeiro",
+              "url": "https://www.youtube.com/watch?v=PoBrbTkqoYs",
+              "style": "primary",
+              "newTab": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "slug": "whatsapp",
+      "title": "WhatsApp",
+      "target": "https://chat.whatsapp.com/JDCaX3PStFEGSbxtrPMrlN"
+    },
+    {
+      "slug": "destino-japao",
+      "title": "Destino: Japão",
+      "target": "https://pay.kiwify.com.br/xKneLSH"
+    }
+  ]
+}
