@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painel · neto.bio</title>
+  <link rel="stylesheet" href="/admin.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="#dashboard" data-nav="dashboard"><span>N</span><strong>neto.bio</strong><small>painel local</small></a>
+    <nav>
+      <button data-nav="dashboard">Visão geral</button>
+      <button data-nav="profile">Perfil</button>
+      <button data-nav="home">Página inicial</button>
+      <button data-nav="pages">Páginas</button>
+      <button data-nav="redirects">Atalhos</button>
+      <button data-nav="appearance">Aparência</button>
+      <button data-nav="publish">Publicar</button>
+    </nav>
+    <div class="sidebar-foot"><span class="status-dot"></span><span>Somente nesta máquina</span></div>
+  </aside>
+  <div class="app">
+    <header class="topbar">
+      <button class="menu" id="menu" aria-label="Abrir menu">☰</button>
+      <div><p class="eyebrow">GERENCIADOR LOCAL</p><h1 id="view-title">Visão geral</h1></div>
+      <div class="top-actions">
+        <span id="save-state">Tudo salvo</span>
+        <a class="button ghost" href="/preview/" target="_blank">Abrir prévia ↗</a>
+        <button class="button primary" id="save">Salvar</button>
+      </div>
+    </header>
+    <main id="content"><div class="loading">Carregando seu site…</div></main>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script src="/app.js"></script>
+</body>
+</html>

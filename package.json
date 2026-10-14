@@ -1,0 +1,14 @@
+{
+  "name": "neto-bio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gerenciador local e gerador estatico do neto.bio",
+  "scripts": {
+    "admin": "node admin/server.js",
+    "build": "node scripts/build.js",
+    "check": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
